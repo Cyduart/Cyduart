@@ -1,26 +1,38 @@
-## Oiii eu sou Cayo Duarte, Gosto muido de conteúdo de programação e tecnologia!
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Java Especialmente com springboot
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Cyduart&show_icons=true&theme=dark" />
+![](https://komarev.com/ghpvc/?username=Cyduart&color=006bed)
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e desenvolvimento de sistema na UNAMA.
+- 🌱 Aprendendo mais sobre Java com springboot .
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+
+<br/>
+
+<a href="https://github.com/Cyduart" title="Perfil do Cayo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyduart&theme=dracula&show_icons=true" />
 </a>
 
+## Onde me encontrar
 
- - <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyduart&layout=compact&langs_count=16&theme=dark"/>
-</a>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Cayo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Cayo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Cayo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Cayo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img align="center" alt="Cayo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
-</div>
-          
-
-  
-
-
-
+[![Linkedin](https://img.shields.io/badge/-Cayoduartevidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cayo-duarte-vidal-952318245/)](https://www.linkedin.com/in/cayo-duarte-vidal-952318245/)
+[![Gmail Badge](https://img.shields.io/badge/-cayoduartevidal@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cayoduartevidal@gmail.com)](mailto:cayoduartevidal@gmail.com)
